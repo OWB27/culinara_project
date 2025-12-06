@@ -1,0 +1,8 @@
+SUCCESS: ADD flour 800
+SUCCESS: ADD sugar 400
+SUCCESS: ADD butter 250
+SUCCESS: ADD chocolate 200
+ERROR: Cannot USE 8 eggs. only 5 available.
+SUCCESS: ADD cheese 50
+SUCCESS: ADD bread 5
+ERROR: Unknown command 'LOL'.
